@@ -7,5 +7,6 @@ Disallow:
 # This line has been added to demonstrate the usage of SSH protocol
 
 # some line
-How are you. this line was added by me now
-added another line
+#How are you. this line was added by me now
+#added another line
+# To demonstrate SSH "command"
